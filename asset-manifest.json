@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ibs-kumpel-app/static/css/main.f855e6bc.css",
+    "main.js": "/ibs-kumpel-app/static/js/main.a96aec08.js",
+    "static/js/453.3370deed.chunk.js": "/ibs-kumpel-app/static/js/453.3370deed.chunk.js",
+    "service-worker.js": "/ibs-kumpel-app/service-worker.js",
+    "index.html": "/ibs-kumpel-app/index.html",
+    "main.f855e6bc.css.map": "/ibs-kumpel-app/static/css/main.f855e6bc.css.map",
+    "main.a96aec08.js.map": "/ibs-kumpel-app/static/js/main.a96aec08.js.map",
+    "453.3370deed.chunk.js.map": "/ibs-kumpel-app/static/js/453.3370deed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a96aec08.js"
+  ]
+}
